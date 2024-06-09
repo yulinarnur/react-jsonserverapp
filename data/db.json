@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Hit the gym",
+      "done": true
+    },
+    {
+      "id": "863d",
+      "title": "yulinar",
+      "done": true
+    },
+    {
+      "id": "1ef6",
+      "title": "chapter 7",
+      "done": false
+    }
+  ]
+}
