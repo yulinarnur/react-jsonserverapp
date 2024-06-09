@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 
 ## How to access the app
 
-**run application:** `yarn` > `yarn dev`
-**run jsonserver:** `npx json-server --watch data/db.json --port 8000`
+- **run application:** `yarn` > `yarn dev`
+- **run jsonserver:** `npx json-server --watch data/db.json --port 8000`
